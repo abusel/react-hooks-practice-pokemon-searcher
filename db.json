@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "mexico monkey",
+      "hp": "1000",
+      "sprites": {
+        "front": "https://cdn.friendlystock.com/wp-content/uploads/2020/04/4-mexican-monkey-cartoon-clipart.jpg",
+        "back": "https://previews.123rf.com/images/lenm/lenm1206/lenm120600043/13898641-illustration-of-illustration-featuring-the-back-of-a-monkey.jpg"
+      },
+      "id": 151
     }
   ]
 }
